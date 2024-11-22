@@ -13,7 +13,6 @@
     </head>
     <body>
         <h1>Hello Admin!</h1>
-        <h3>Xin chào các bạn nhé :3</h3>
         <form action="LogoutController" method="POST">
             <button type="submit">Logout</button>
         </form>
